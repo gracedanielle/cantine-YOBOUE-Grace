@@ -1,0 +1,26 @@
+Code du plat 1
+PS C:\Users\DELL\Downloads\cantine-YOBOUE-Grace> node cantine.js
+le montant Total est 4500 FCFA
+la portion commandée est la n° 1
+la portion commandée est la n° 2
+la portion commandée est la n° 3
+le nom du client est Awa le total à payer est 4500 FCFA
+ la monnaie à rendre est 500 FCFA
+
+Code du plat 2
+PS C:\Users\DELL\Downloads\cantine-YOBOUE-Grace> node cantine.js
+le montant Total est 4000 FCFA
+la portion commandée est la n° 1
+la portion commandée est la n° 2
+le nom du client est Awa le total à payer est 4000 FCFA
+le montant manquant est: 1000
+
+Code du plat 3
+PS C:\Users\DELL\Downloads\cantine-YOBOUE-Grace> node cantine.js
+le montant Total est 4000 FCFA
+la portion commandée est la n° 1
+la portion commandée est la n° 2
+la portion commandée est la n° 3
+la portion commandée est la n° 4
+le nom du client est Awa le total à payer est 4000 FCFA
+le montant manquant est: 0
