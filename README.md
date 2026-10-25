@@ -5,7 +5,7 @@ Je crée un dosier nommé cantine-YOBOU-Grace et ensuite trois fichiers dans ce 
 Je commence d'abord par déclarer les variable avec la commande let 
 J'ai converti la quantité à l'aide de la commande number afin d'effectuer des calculs avec un code entre 1 et 3
 J'ai utilisé la condition if/else pour déterminer le prix unitaire du plat
-La commande function pour déclarer la fonction afin de calculer le total, ensuite la commande return pour donner une valeur à la fonction et mettre fin à l'exécution de la fonction
+A l'aide de function,j'ai executé le calcul total qui va retourner le montant total à payer avec return
 J'ai ppelé la fonction calculertotal et j'ai récupéré le résultat dans une variable avec les commandes let et console.log
 J'ai Utilisé la boucle for pour afficher plusieurs fois une ligne par portion commandée
 À l’aide des conditions if/else j'ai indiqué la monnaie à rendre si le montant versé est suffisant et le montant manquant dans le cas contraire.
